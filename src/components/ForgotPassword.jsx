@@ -21,7 +21,7 @@ function ForgotPassword() {
         <Input placeholder="Enter your email" />
         <Button
           colorScheme="blue"
-          width="100%"
+          width="50%%"
           onClick={() => navigate("/verify-code")}
         >
           Send Code
